@@ -33,3 +33,4 @@ Makefile*
 docs/html/
 
 handler/_build
+*.lib
